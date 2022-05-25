@@ -21,7 +21,7 @@ MarkupSafe==2.0.1
 multidict==5.1.0
 pycparser==2.20
 pycryptodome==3.10.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-slugify==4.0.1
 pytz==2021.1
 PyYAML==5.4.1
