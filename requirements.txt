@@ -14,7 +14,7 @@ h11==0.12.0
 homeassistant @ git+https://github.com/home-assistant/core/@bffa9f960dac0130f26d98fc16fce67341eedf30
 httpcore==0.13.6
 httpx==0.18.2
-idna==2.10
+idna==3.7
 ifaddr==0.1.7
 Jinja2==3.0.1
 MarkupSafe==2.0.1
